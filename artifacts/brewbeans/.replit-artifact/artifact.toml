@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Brewbeans Coffee"
+description = "A premium responsive concept website for Brewbeans, a warm neighborhood coffee shop in Gulshan-e-Iqbal, Karachi, with featured coffee, reviews, menu preview, café experience, and visit information."
+version = "1.0.0"
+id = "artifacts/brewbeans"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18324
+
+[services.development]
+run = "pnpm --filter @workspace/brewbeans run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/brewbeans", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/brewbeans/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18324"
+BASE_PATH = "/"

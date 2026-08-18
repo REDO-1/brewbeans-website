@@ -1,0 +1,200 @@
+Create a premium, modern, responsive website concept for **Brewbeans**, a coffee shop located in Gulshan-e-Iqbal, Karachi, Pakistan.
+
+This is a **design/demo concept for a potential client**, so prioritize visual quality, strong UI/UX, and a polished premium feel.
+
+### Brand
+
+* Name: **Brewbeans**
+* Business: Coffee shop
+* Location: Gulshan-e-Iqbal, Karachi
+* Google rating: **4.9/5 from 79 reviews**
+* Phone: **+92 311 2463092**
+* Food delivery: Foodpanda
+* Existing brand logo: use the Brewbeans logo visible in the provided reference image.
+* Do not invent a completely different logo or brand identity.
+
+### Design Direction
+
+Create a warm, sophisticated coffee-house aesthetic.
+
+Use:
+
+* Deep espresso brown
+* Warm cream/off-white
+* Soft beige
+* Subtle coffee/caramel accents
+* Large elegant typography
+* High-quality coffee photography
+* Generous whitespace
+* Rounded cards and subtle shadows
+* Smooth micro-interactions
+* Premium editorial-style layouts
+
+Avoid:
+
+* Generic café templates
+* Excessive gradients
+* Bright colors
+* Overly complicated animations
+* Cluttered layouts
+
+### Website Structure
+
+Build a polished single-page website with these sections:
+
+**1. Navbar**
+
+* Brewbeans logo
+* Menu
+* About
+* Our Coffee
+* Reviews
+* Visit Us
+* Primary CTA: "View Menu"
+* Sticky navbar with subtle background blur on scroll
+
+**2. Hero**
+Create a visually striking coffee-shop hero.
+
+Headline:
+**"Good Coffee. Good Moments."**
+
+Supporting text:
+"Your cozy neighborhood coffee spot in Gulshan-e-Iqbal, Karachi."
+
+Buttons:
+
+* Explore Menu
+* Get Directions
+
+Include a large atmospheric coffee image with warm lighting and a sophisticated composition.
+
+Add a small floating rating badge:
+**★ 4.9**
+**79 Google Reviews**
+
+**3. Featured Coffee**
+Heading:
+**"Made for Your Coffee Moments"**
+
+Show 4 attractive product cards:
+
+* Spanish Latte
+* Cappuccino
+* Iced Latte
+* Tiramisu
+
+Each card should include image, short description and price placeholder.
+
+Make the cards visually premium and interactive.
+
+**4. About Brewbeans**
+Create an editorial two-column section with an interior/café image and text.
+
+Heading:
+**"A Place to Slow Down."**
+
+Copy should communicate that Brewbeans is a comfortable neighborhood coffee shop for coffee, conversations, work and relaxing moments.
+
+Include a small statistic:
+**4.9★**
+**Google Rating**
+
+**5. Customer Reviews**
+Heading:
+**"Loved by Coffee Lovers"**
+
+Create 3 review cards inspired by the existing Google reviews.
+
+Use realistic review-style content such as:
+
+* Excellent coffee and fantastic ambience.
+* Peaceful atmosphere and amazing coffee.
+* Polite staff and a relaxing atmosphere.
+
+Display:
+**4.9 / 5**
+**79 Google Reviews**
+
+Include a "Read all reviews" CTA.
+
+**6. Menu Preview**
+Create an elegant menu section with categories:
+
+* Coffee
+* Cold Coffee
+* Desserts
+* Snacks
+
+Show several menu items with prices as placeholders.
+
+Include:
+**"View Full Menu"**
+
+**7. Café Experience**
+Create a visually rich image section showing the café atmosphere.
+
+Use a large image with smaller overlapping images/cards.
+
+Headline:
+**"Come for the Coffee. Stay for the Vibe."**
+
+**8. Visit Brewbeans**
+Create a location section containing:
+
+* Gulshan-e-Iqbal, Karachi
+* Opening hours
+* Phone number
+* Google Maps CTA
+* Foodpanda CTA
+
+Use a clean map/location visual on one side.
+
+**9. Final CTA**
+Large premium CTA:
+
+**"Your Next Coffee Break Starts Here."**
+
+Buttons:
+
+* View Menu
+* Get Directions
+
+**10. Footer**
+Include:
+
+* Brewbeans logo
+* Short description
+* Navigation
+* Contact
+* Location
+* Instagram
+* Foodpanda
+* Copyright
+
+### UX Requirements
+
+* Fully responsive for desktop, tablet and mobile
+* Excellent mobile navigation
+* Smooth scrolling
+* Sticky navbar
+* Clear CTA hierarchy
+* Accessible contrast
+* Fast-loading layout
+* Subtle hover animations
+* Smooth section transitions
+* Buttons should have clear hover states
+* No broken links
+* Use reusable components
+
+### Important
+
+This is a **client pitch/demo**, not a production ordering system. Do not build complicated authentication, checkout, payment or backend functionality.
+
+Use realistic placeholder prices where actual menu prices are unavailable.
+
+Use high-quality café/coffee imagery that matches Brewbeans' warm aesthetic.
+
+The final result should look like a **$1,000+ professionally designed coffee-shop website**, not an AI-generated template.
+
+Make the design visually impressive enough that when the Brewbeans owner sees it, they can immediately imagine their actual business using it.
