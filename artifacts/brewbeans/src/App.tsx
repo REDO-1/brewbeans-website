@@ -41,8 +41,11 @@ const navItems = [
 function Brand() {
   return (
     <a className="brand" href="#top" data-testid="link-brand">
-      <span className="brand-mark" aria-hidden="true">b</span>
-      <span>Brewbeans</span>
+      <img
+        src="/Brewbeans logo.png"
+        alt="Brewbeans"
+       className="h-20 w-auto"
+      />
     </a>
   );
 }
